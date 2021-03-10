@@ -10,7 +10,13 @@ Intalll and you can see the suscription page without restriction
 
 	Settings > Extension
 
-2. click on the button `Load unpacked` and select the Path from extension
+2. Enable: Developer mode
 
-3. It's just open the website:  [https://elcomercio.pe]()
+3. click on the button `Load unpacked` and select the Path from extension
 
+4. It's just open the website:  [https://elcomercio.pe]()
+
+
+
+
+![image]("README/ezgif.com-gif-maker.gif")
