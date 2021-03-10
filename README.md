@@ -19,4 +19,4 @@ Intalll and you can see the suscription page without restriction
 
 
 
-![image]("README/ezgif.com-gif-maker.gif")
+![image](README/ezgif.com-gif-maker.gif)
