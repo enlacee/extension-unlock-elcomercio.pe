@@ -1,0 +1,23 @@
+{
+"manifest_version": 2,
+"name": "Unlock Content Elcomercio",
+"description": "Unlock content suscription",
+"version": "1.0",
+"content_scripts":[
+    {
+      "matches":[
+        "https://elcomercio.pe/*"
+      ],
+      "js": ["content.js"]
+    }
+  ],
+"background": {
+      "scripts": ["background.js"],
+      "persistent": false
+    },
+"permissions": [
+    "activeTab",
+    "storage",
+    "https://ajax.googleapis.com/"
+  ]
+}
